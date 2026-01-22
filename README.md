@@ -1,5 +1,6 @@
 # LabsUtility Component
 > This component is a edited / custom copy of an orginal repisitory. Information to the orginal can be found [here](https://github.com/LabsUtility/img-api)
+
 It is an incomplete port:
   * It only supports TrueType fonts, and not Type 1 fonts nor bitmap fonts.
   * It only supports the Unicode encoding.
